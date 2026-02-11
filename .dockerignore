@@ -1,0 +1,16 @@
+node_modules
+npm-debug.log
+.git
+.gitignore
+.DS_Store
+build
+.gradle
+.idea
+*.iml
+target
+.env.local
+.vscode
+*.md
+docker-compose.yml
+nginx.conf
+Dockerfile
